@@ -1,0 +1,23 @@
+R_DEF: Internal format may change without notice
+local
+drawable btn_delete_background
+drawable btn_edit_background
+drawable edittext_background
+drawable id_badge_background
+id btnClear
+id btnDelete
+id btnEdit
+id btnSave
+id etEmail
+id etName
+id etPhone
+id rvStudents
+id tvRecordCount
+id tvStudentEmail
+id tvStudentId
+id tvStudentName
+id tvStudentPhone
+layout activity_main
+layout item_student
+string app_name
+style Theme.StudentManagement
